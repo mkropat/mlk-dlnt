@@ -1,0 +1,2 @@
+https://github.com/mkropat/sslfie/releases/download/v0.3/sslfie_0.3.tar.bz2
+https://github.com/mkropat/jumpapp/releases/download/v0.8/jumpapp_0.8-1_all.deb

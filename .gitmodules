@@ -1,0 +1,4 @@
+[submodule "download-integrity-service"]
+	path = download-integrity-service
+	url = https://github.com/mkropat/download-integrity-service.git
+	branch = master
